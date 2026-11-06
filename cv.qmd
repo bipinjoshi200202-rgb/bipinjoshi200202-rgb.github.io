@@ -1,0 +1,41 @@
+---
+title: "CV & Contact"
+---
+
+[Get in touch]{.eyebrow}
+
+I am looking for working-student positions, internships and research-assistant roles in economic analysis, agricultural policy and climate policy. I'm glad to talk about my projects or share my full CV.
+
+```{=html}
+<ul class="contact-list">
+  <li><span class="k">Email</span><span><a href="mailto:bipinjoshi200202@gmail.com">bipinjoshi200202@gmail.com</a></span></li>
+  <li><span class="k">LinkedIn</span><span><a href="https://www.linkedin.com/in/bipin-joshi-9b88103a9/">linkedin.com/in/bipin-joshi-9b88103a9</a></span></li>
+  <li><span class="k">GitHub</span><span><a href="https://github.com/bipinjoshi200202-rgb">github.com/bipinjoshi200202-rgb</a></span></li>
+  <li><span class="k">Location</span><span>Berlin, Germany</span></li>
+</ul>
+```
+
+## Curriculum Vitae
+
+My full CV is available on request. Email me and I'll send the latest version.
+
+::: {.btn-row style="margin-top:1rem"}
+[Request my CV by email](mailto:bipinjoshi200202@gmail.com?subject=CV%20request){.btn-solid}
+[View LinkedIn profile](https://www.linkedin.com/in/bipin-joshi-9b88103a9/){.btn-line}
+:::
+
+## At a glance
+
+::: {.facts}
+Education
+: MSc Agricultural Economics, Humboldt-Universität zu Berlin (current) · BSc Agriculture, Agriculture and Forestry University, Nepal (2025)
+
+Experience
+: Botany Teacher & Head of Department, Centre for Agricultural Research and Education, Nepal · Agriculture and Research Intern, Kernal Agro Farm Research and Training Centre, Nepal
+
+Focus
+: Econometrics in R · economic modelling · EU climate and agricultural policy
+
+Certificates
+: McKinsey.org Forward Program (ongoing) · Google Prompting Essentials · Nepal Young Bioentrepreneurship (USAID Nepal & Tuskegee University)
+:::

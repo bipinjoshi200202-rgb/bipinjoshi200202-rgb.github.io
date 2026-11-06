@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!_templates/"
+    - "!README.md"
+
+execute:
+  # R code is run on your own computer; results are stored in _freeze/
+  # so GitHub can publish the site without re-running your analysis.
+  freeze: auto
+
+website:
+  title: "Bipin Joshi"
+  description: "Economic analysis, quantitative modelling and policy research — MSc Agricultural Economics, Humboldt-Universität zu Berlin."
+  site-url: "https://bipinjoshi200202-rgb.github.io"
+  repo-url: "https://github.com/bipinjoshi200202-rgb/bipinjoshi200202-rgb.github.io"
+  favicon: assets/favicon.svg
+  page-navigation: true
+  back-to-top-navigation: true
+  open-graph: true
+  navbar:
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "CV & Contact"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: "https://github.com/bipinjoshi200202-rgb"
+        aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/bipin-joshi-9b88103a9/"
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Bipin Joshi · MSc Agricultural Economics, Humboldt-Universität zu Berlin"
+    right:
+      - text: "Built with Quarto"
+        href: "https://quarto.org"
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/styles.scss]
+    toc: false
+    smooth-scroll: false
+    link-external-newwindow: true
+    code-copy: true
+    code-fold: show
+    code-tools: false
+    highlight-style: github
+    mainfont: "Inter"
+    grid:
+      body-width: 900px

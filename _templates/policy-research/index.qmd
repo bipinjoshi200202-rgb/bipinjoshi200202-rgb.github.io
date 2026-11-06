@@ -1,0 +1,74 @@
+---
+# ─── Card & page details (shown on the Projects page) ─────────────────────────
+title: "CASE STUDY TITLE"
+description: "One-sentence summary of the policy question and what the group found."
+question: "Main research question."
+categories: ["Economics & Policy Research"]
+tools: ["Literature review", "Policy analysis"]
+date: 2026-01-01
+image: figures/thumbnail.png      # e.g. a key slide exported as PNG; delete line if none
+course: "Course name, HU Berlin, semester"
+type: "Group project"
+---
+
+::: {.project-meta}
+::: {}
+[Course]{.k}
+
+[COURSE NAME, SEMESTER]{.v}
+:::
+::: {}
+[Type]{.k}
+
+[Group project (N members)]{.v}
+:::
+::: {}
+[Method]{.k}
+
+[Literature review · policy analysis]{.v}
+:::
+::: {}
+[Output]{.k}
+
+[Class presentation]{.v}
+:::
+:::
+
+::: {.contribution}
+**Group work and my contribution.** This was a group project of N students; the research question, literature review and presentation were developed jointly. **My individual contribution:** WHAT I DID (e.g. reviewed articles on X, wrote and presented the section on Y, prepared the policy-implications slides).
+:::
+
+## Research question
+
+## Background and policy relevance
+
+Which policy, which countries or sectors, and why it matters now.
+
+## Literature review
+
+The main strands of the literature (about 8–10 articles). Group them by theme and cite them, e.g. (Author, Year).
+
+## Main findings from the literature
+
+## Analytical approach
+
+How the group structured the argument: framework, comparison, criteria.
+
+## Economic arguments
+
+## Policy implications
+
+Only implications that the group's analysis and the literature support.
+
+## Conclusions
+
+## Presentation
+
+<!-- Export selected slides as PNG into figures/ or include the PDF if allowed. -->
+![Selected slide](figures/slide-01.png)
+
+[Download presentation (PDF)](files/presentation.pdf)
+
+## References
+
+Full list of the articles reviewed.

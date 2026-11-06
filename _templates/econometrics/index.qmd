@@ -1,0 +1,102 @@
+---
+# ─── Card & page details (shown on the Projects page) ─────────────────────────
+title: "PROJECT TITLE"
+description: "One-sentence summary of what the project does."
+question: "Main research question, e.g. How does X affect Y?"
+categories: ["Econometric Analysis in R"]
+tools: ["R", "RStudio"]            # add packages if useful, e.g. "fixest", "ggplot2"
+date: 2026-01-01                  # order on the Projects page (newest first)
+image: figures/thumbnail.png      # representative chart; delete line if none yet
+course: "Course name, HU Berlin, semester"
+type: "Individual project"        # or "Group project"
+# If the project contains R code that should run, keep this:
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+::: {.project-meta}
+::: {}
+[Course]{.k}
+
+[COURSE NAME, SEMESTER]{.v}
+:::
+::: {}
+[Type]{.k}
+
+[Individual / Group]{.v}
+:::
+::: {}
+[Tools]{.k}
+
+[R · RStudio · packages]{.v}
+:::
+::: {}
+[Data]{.k}
+
+[SHORT DATA SOURCE NAME]{.v}
+:::
+:::
+
+<!-- For group work, keep this box and say exactly what you did. Delete it for individual work. -->
+::: {.contribution}
+**My contribution.** WHAT I PERSONALLY DID (e.g. data preparation, model estimation, interpretation section).
+:::
+
+## Research question
+
+State the question precisely.
+
+## Economic motivation
+
+Why does this question matter economically or for policy? What does theory predict?
+
+## Data
+
+Source, unit of observation, period, sample size. Describe the key variables:
+
+| Variable | Description | Unit |
+|---|---|---|
+| y | ... | ... |
+| x1 | ... | ... |
+
+## Data preparation
+
+The main cleaning and transformation decisions, and the reason for each.
+
+## Methodology
+
+Estimator, identification idea, assumptions, and the model specification, for example:
+
+$$
+y_i = \beta_0 + \beta_1 x_{1i} + \beta_2 x_{2i} + \varepsilon_i
+$$
+
+## Results
+
+Regression table(s) and figures. Either run R code here:
+
+```{r}
+#| eval: false
+# Put your R script code here (or source it):
+# source("scripts/analysis.R")
+```
+
+…or insert saved outputs: `![Caption](figures/plot.png)`
+
+## Economic interpretation
+
+What do the coefficients mean in economic terms? Size, sign, significance.
+
+## Limitations
+
+Data limitations, identification concerns, robustness.
+
+## Conclusion
+
+The two or three main takeaways.
+
+## Files
+
+- [R script](scripts/analysis.R)

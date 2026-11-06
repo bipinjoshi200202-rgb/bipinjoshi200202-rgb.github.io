@@ -1,0 +1,59 @@
+---
+title: "About"
+---
+
+[Agricultural economics · quantitative analysis · policy]{.eyebrow}
+
+I am an MSc Agricultural Economics student at Humboldt-Universität zu Berlin. My coursework combines econometrics, quantitative methods, economic modelling, agricultural markets and public policy. I want to use data-driven analysis on agricultural, environmental and climate-policy questions.
+
+Before my MSc, I completed a BSc in Agriculture at Agriculture and Forestry University in Nepal (2025). There I focused on agricultural economics, production systems and natural resource management, and collected field data for applied agricultural research.
+
+## Education
+
+::: {.facts}
+Current
+: **MSc Agricultural Economics**, Humboldt-Universität zu Berlin, Germany
+: Econometric modelling and quantitative analysis in R for policy evaluation · analysis of EU and international agricultural, food and environmental policy instruments · simulation modelling of market and policy interventions
+
+2025
+: **BSc Agriculture**, Agriculture and Forestry University, Chitwan, Nepal
+: Agricultural economics, production systems and natural resource management · field data collection for applied research projects
+:::
+
+## Experience
+
+::: {.facts}
+Teaching
+: **Botany Teacher & Head of Department**, Centre for Agricultural Research and Education, Chitwan, Nepal
+: Taught genetics and cell physiology, more than 200 hours a year, and led a team of 8 teachers in my final year. This taught me to explain complex material clearly to non-specialists.
+
+Research
+: **Agriculture and Research Intern**, Kernal Agro Farm Research and Training Centre, Kapilvastu, Nepal
+: Collected and organised field data for ongoing agricultural research projects and supported supply-chain logistics.
+:::
+
+## Interests
+
+My main interest is the economics of climate and environmental policy, especially in the European Union:
+
+- EU climate policy instruments: the Emissions Trading System (ETS), the Carbon Border Adjustment Mechanism (CBAM), the Carbon Removals and Carbon Farming certification framework (CRCF), and the Deforestation Regulation (EUDR)
+- The EU Common Agricultural Policy (CAP) and its environmental dimension
+- Environmental and resource economics, carbon pricing and carbon markets
+- Economic evaluation of regulations and policy impact assessment
+
+## Career direction
+
+I am working towards a career as an economic and policy analyst in the climate and environmental field. I am particularly interested in climate-policy consultancies, economic consulting firms, research institutes and international organisations. I am currently looking for working-student and internship opportunities in these areas.
+
+## Languages
+
+::: {.facts}
+Nepali
+: Native
+
+English
+: C1
+
+German
+: A2–B1
+:::

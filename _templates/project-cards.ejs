@@ -1,0 +1,22 @@
+<% if (items.length === 0) { %>
+<div class="empty-state">Projects in this area are being prepared and will be published here soon.</div>
+<% } else { %>
+<div class="project-grid list">
+<% for (const item of items) { %>
+  <a class="project-card" href="<%- item.path %>" <%= metadataAttrs(item) %>>
+    <div class="thumb">
+      <% if (item.image) { %><img src="<%- item.image %>" alt="<%= item.title %>" loading="lazy"><% } %>
+    </div>
+    <div class="body">
+      <% if (item.categories && item.categories.length) { %><div class="cat"><%= item.categories[0] %></div><% } %>
+      <h3><%= item.title %></h3>
+      <% if (item.description) { %><div class="desc"><%= item.description %></div><% } %>
+      <% if (item.question) { %><div class="rq"><%= item.question %></div><% } %>
+      <% if (item.tools) { %>
+      <ul class="chips"><% for (const t of item.tools) { %><li class="chip neutral"><%= t %></li><% } %></ul>
+      <% } %>
+    </div>
+  </a>
+<% } %>
+</div>
+<% } %>

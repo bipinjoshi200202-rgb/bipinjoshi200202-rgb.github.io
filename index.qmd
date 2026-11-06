@@ -1,0 +1,84 @@
+---
+pagetitle: "Bipin Joshi — Economic Analysis, Quantitative Modelling & Policy Research"
+description: "Portfolio of Bipin Joshi, MSc Agricultural Economics student at Humboldt-Universität zu Berlin."
+---
+
+::: {.hero}
+[Bipin Joshi · MSc Agricultural Economics, HU Berlin]{.eyebrow}
+
+# Economic Analysis, Quantitative Modelling & Policy Research
+
+[I am an MSc Agricultural Economics student at Humboldt-Universität zu Berlin, interested in applying economic analysis, quantitative modelling, and empirical research to real-world agricultural, environmental, and climate-policy challenges.]{.lead}
+
+::: {.btn-row}
+[View projects](projects/index.qmd){.btn-solid}
+[CV & contact](cv.qmd){.btn-line}
+[GitHub](https://github.com/bipinjoshi200202-rgb){.btn-line}
+[LinkedIn](https://www.linkedin.com/in/bipin-joshi-9b88103a9/){.btn-line}
+:::
+:::
+
+## What this portfolio shows
+
+::: {.pillars}
+::: {}
+[01]{.num}
+
+### Quantitative economic analysis
+
+Econometric modelling and statistical inference in R, applied to economic and agricultural data.
+:::
+
+::: {}
+[02]{.num}
+
+### Economic modelling & data
+
+Preparing raw data for analysis and building simulation models of markets and policy interventions.
+:::
+
+::: {}
+[03]{.num}
+
+### Policy research
+
+Reviewing the academic literature on agricultural, food and environmental policy, and presenting evidence-based arguments.
+:::
+:::
+
+## Project areas
+
+```{=html}
+<div class="tiles">
+  <a class="tile" href="projects/index.html#sec-econometrics">
+    <h3>Econometric Analysis in R</h3>
+    <p>Regression modelling, estimation and interpretation of economic data in R / RStudio.</p>
+    <span class="go">Browse projects →</span>
+  </a>
+  <a class="tile" href="projects/index.html#sec-policy-research">
+    <h3>Presentation Projects in Economics &amp; Policy</h3>
+    <p>Group research on agricultural, environmental and climate-policy questions, written up as case studies.</p>
+    <span class="go">Browse projects →</span>
+  </a>
+</div>
+```
+
+[Economic modelling (GAMS) and data management projects will be added soon.]{.muted style="font-size:.9rem"}
+
+## Background
+
+::: {.facts}
+Current
+: MSc Agricultural Economics, Humboldt-Universität zu Berlin
+
+Previously
+: BSc Agriculture, Agriculture and Forestry University, Chitwan, Nepal (2025)
+
+Interests
+: EU climate policy (ETS, CBAM, CRCF, EUDR) · EU Common Agricultural Policy · environmental & resource economics · policy impact assessment
+
+Tools
+: R / RStudio · GAMS · Excel · SPSS · Python (learning)
+:::
+
+[More about me →](about.qmd)

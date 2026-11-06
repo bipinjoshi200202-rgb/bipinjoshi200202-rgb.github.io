@@ -1,0 +1,57 @@
+---
+title: "Skills"
+description: "Skills are described by how I have used them, from MSc coursework and projects onward. Each project page shows the work behind them."
+---
+
+::: {.chips style="margin-bottom:1.8rem"}
+[Applied in projects]{.level .applied}
+[Coursework]{.level .course}
+[Currently learning]{.level .learning}
+:::
+
+```{=html}
+<div class="skill-group">
+  <h3>Quantitative &amp; analytical</h3>
+  <table>
+    <tr><td>Econometrics: regression modelling, estimation and inference</td><td><span class="level applied">Applied in projects</span></td></tr>
+    <tr><td>Statistical analysis and quantitative methods</td><td><span class="level applied">Applied in projects</span></td></tr>
+    <tr><td>Data cleaning, transformation and management</td><td><span class="level applied">Applied in projects</span></td></tr>
+    <tr><td>Economic modelling and market simulation</td><td><span class="level course">Coursework</span></td></tr>
+    <tr><td>Optimisation</td><td><span class="level course">Coursework</span></td></tr>
+  </table>
+</div>
+
+<div class="skill-group">
+  <h3>Software</h3>
+  <table>
+    <tr><td>R / RStudio</td><td><span class="level applied">Applied in projects</span></td></tr>
+    <tr><td>GAMS</td><td><span class="level course">Coursework</span></td></tr>
+    <tr><td>Microsoft Excel and Office</td><td><span class="level course">Coursework</span></td></tr>
+    <tr><td>SPSS</td><td><span class="level course">Coursework</span></td></tr>
+    <tr><td>Python</td><td><span class="level learning">Currently learning</span></td></tr>
+  </table>
+</div>
+
+<div class="skill-group">
+  <h3>Policy &amp; research</h3>
+  <table>
+    <tr><td>Academic literature reviews</td><td><span class="level applied">Applied in projects</span></td></tr>
+    <tr><td>Agricultural policy analysis, including the EU CAP</td><td><span class="level applied">Applied in projects</span></td></tr>
+    <tr><td>European and international agricultural, food and environmental policy</td><td><span class="level course">Coursework</span></td></tr>
+    <tr><td>EU climate policy instruments: ETS, CBAM, CRCF, EUDR</td><td><span class="level course">Coursework</span></td></tr>
+    <tr><td>Economic interpretation of empirical results</td><td><span class="level applied">Applied in projects</span></td></tr>
+    <tr><td>Research presentations</td><td><span class="level applied">Applied in projects</span></td></tr>
+  </table>
+</div>
+
+<div class="skill-group">
+  <h3>Communication &amp; teamwork</h3>
+  <table>
+    <tr><td>Explaining complex material to non-specialists (4 years of teaching)</td><td><span class="level applied">Professional experience</span></td></tr>
+    <tr><td>Team leadership (led a department of 8 teachers)</td><td><span class="level applied">Professional experience</span></td></tr>
+    <tr><td>Multicultural collaboration and group research</td><td><span class="level applied">Applied in projects</span></td></tr>
+  </table>
+</div>
+```
+
+[Languages: Nepali (native), English (C1), German (A2–B1).]{.muted style="font-size:.9rem"}

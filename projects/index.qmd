@@ -1,0 +1,34 @@
+---
+title: "Projects"
+description: "Academic projects from my MSc in Agricultural Economics at Humboldt-Universität zu Berlin. Each project has its own page covering the question, data, method and findings."
+listing:
+  - id: econometrics
+    contents: "econometrics/*/index.qmd"
+    template: ../_templates/project-cards.ejs
+    sort: "date desc"
+    fields: [title, description, categories, image, tools, question]
+  - id: policy-research
+    contents: "policy-research/*/index.qmd"
+    template: ../_templates/project-cards.ejs
+    sort: "date desc"
+    fields: [title, description, categories, image, tools, question]
+---
+
+## Econometric Analysis in R {#sec-econometrics}
+
+Statistical and econometric analysis of economic data in R / RStudio: research question, data, model specification, estimation results and economic interpretation.
+
+::: {#econometrics}
+:::
+
+## Presentation Projects in Economics & Policy {#sec-policy-research}
+
+Group research projects from my MSc. Each one involved reviewing the academic literature on a policy question and presenting the findings. Every case study states clearly which parts were group work and which were my own contribution.
+
+::: {#policy-research}
+:::
+
+::: {.rule}
+:::
+
+[Economic modelling & market simulation (GAMS) and data management projects (R) will be added as separate sections.]{.muted style="font-size:.9rem"}
