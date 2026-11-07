@@ -4,6 +4,7 @@ description: "Estimates a Cobb–Douglas production frontier for 826 sunflower f
 question: "How efficiently do sunflower farms turn inputs into output, and do farmer age, gender or policy support explain differences in efficiency?"
 categories: ["Econometric Analysis in R"]
 tools: ["R", "sfaR", "Stochastic frontier analysis", "Maximum likelihood"]
+order: 2
 image: figures/thumbnail.png
 ---
 
@@ -157,19 +158,12 @@ Most farms lie between 0.65 and 0.85. There is a long lower tail: a small group 
 - **Age effect.** Inefficiency falls with age up to about 34 and rises after that. One possible reading: experience helps up to a point, after which older farmers may adopt new practices more slowly. This is an interpretation, not a tested mechanism.
 - **Policy support.** Farms that received support are not detectably more efficient, and their mean efficiency is about the same as other farms' (0.74 vs. 0.73). Support was not randomly assigned, so this result is not a causal evaluation of the policy.
 
-## Limitations
-
-- **Functional form.** Cobb–Douglas imposes constant elasticities. A translog frontier would allow them to vary but was not estimated.
-- **Distributional assumption.** Efficiency scores depend on the half-normal assumption for inefficiency. Other distributions, such as truncated-normal or exponential, could shift the levels.
-- **Cross-section.** With a single period, persistent inefficiency cannot be separated from unobserved farm heterogeneity, such as soil quality.
-- **Policy variable.** Selection into support is not controlled for, so its coefficient is an association, not an effect.
-
 ## What this project demonstrates
 
 - Specifying and estimating a stochastic frontier model by maximum likelihood in R.
 - Diagnosing whether a frontier model is warranted, using residual skewness, variance decomposition and LR tests.
 - Testing economic hypotheses, such as returns to scale.
-- Turning estimates into economic and policy-relevant interpretation, with honest limitations.
+- Turning estimates into economic and policy-relevant interpretation.
 
 ## Code
 

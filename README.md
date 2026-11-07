@@ -32,7 +32,7 @@ assets/
    - `_templates/econometrics/` → `projects/econometrics/my-project-name/`
    - `_templates/policy-research/` → `projects/policy-research/my-project-name/`
 2. Open `index.qmd` in the new folder and fill in the header (title, description, question, tools, date, image)
-   and the sections. Delete any section that doesn't apply. **Only use real content from your own work.**
+   and the sections. `order` sets the position on the Projects page (1 = first). Delete any section that doesn't apply. **Only use real content from your own work.**
 3. Put supporting files in the same folder:
    - `figures/`: charts and selected slides (PNG); `figures/thumbnail.png` becomes the card image
    - `scripts/`: R scripts

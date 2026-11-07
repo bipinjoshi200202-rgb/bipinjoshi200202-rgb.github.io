@@ -5,7 +5,7 @@ description: "One-sentence summary of what the project does."
 question: "Main research question, e.g. How does X affect Y?"
 categories: ["Econometric Analysis in R"]
 tools: ["R", "RStudio"]            # add packages if useful, e.g. "fixest", "ggplot2"
-date: 2026-01-01                  # order on the Projects page (newest first)
+order: 99                         # position on the Projects page (1 = first)
 image: figures/thumbnail.png      # representative chart; delete line if none yet
 course: "Course name, HU Berlin, semester"
 type: "Individual project"        # or "Group project"
@@ -88,10 +88,6 @@ Regression table(s) and figures. Either run R code here:
 ## Economic interpretation
 
 What do the coefficients mean in economic terms? Size, sign, significance.
-
-## Limitations
-
-Data limitations, identification concerns, robustness.
 
 ## Conclusion
 

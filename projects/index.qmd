@@ -5,12 +5,12 @@ listing:
   - id: econometrics
     contents: "econometrics/*/index.qmd"
     template: ../_templates/project-cards.ejs
-    sort: "date desc"
+    sort: "order"
     fields: [title, description, categories, image, tools, question]
   - id: policy-research
     contents: "policy-research/*/index.qmd"
     template: ../_templates/project-cards.ejs
-    sort: "date desc"
+    sort: "order"
     fields: [title, description, categories, image, tools, question]
 ---
 
