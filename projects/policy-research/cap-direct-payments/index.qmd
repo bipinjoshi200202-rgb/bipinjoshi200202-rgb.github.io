@@ -32,14 +32,14 @@ image: figures/thumbnail.png
 :::
 
 ::: {.contribution}
-**Group work and my contribution.** The group produced a 34-slide presentation and divided the research by section:
+**Group work and my contribution.** This was a group project of five students. The research was divided by section, and each member prepared and presented one part:
 
-- Sryashee Dutta Roy: introduction, and reforms and their efficacy
-- Jiaxi Meng: the evolution of direct payments
-- Pallavi Lokesh: the future of the CAP after 2028
-- Muhammad Ilham Haeri: who benefits from direct payments
+- Member 1: introduction, and reforms and their efficacy
+- Member 2: the evolution of direct payments
+- Member 3: the future of the CAP after 2028
+- Member 4: who benefits from direct payments
 
-**My individual contribution:** Section 5, *"Why are direct payments still continuing?"* (slides 21–25). I researched and presented the political economy of the CAP: the theories that explain why the instrument persists, the actors who block reform, the effect of the 2023–24 farmer protests, and what this means for the post-2028 CAP.
+**My individual contribution (Bipin Joshi):** Section 5, *"Why are direct payments still continuing?"* (slides 21–25). I researched and presented the political economy of the CAP: the theories that explain why the instrument persists, the actors who block reform, the effect of the 2023–24 farmer protests, and what this means for the post-2028 CAP.
 :::
 
 ## Key findings
@@ -152,7 +152,7 @@ From my section: reform proposals must address the **political economy**, not on
 
 ## Presentation
 
-[Download the full presentation (PDF, 34 slides)](files/direct-payments-cap-presentation.pdf){.btn-solid}
+[Download the full presentation (PDF, 33 slides)](files/direct-payments-cap-presentation.pdf){.btn-solid}
 
 ## Key literature
 
