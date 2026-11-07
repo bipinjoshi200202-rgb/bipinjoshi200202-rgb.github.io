@@ -4,7 +4,7 @@ description: "Literature-based study of how global food-price shocks reach farme
 question: "How strongly and how fast do world commodity-price changes pass through to domestic food prices in developing countries, and who is affected?"
 categories: ["Presentation Projects in Economics & Policy"]
 tools: ["Literature review", "Price transmission", "Time-series econometrics", "Food policy"]
-order: 2
+order: 3
 image: figures/thumbnail.png
 ---
 

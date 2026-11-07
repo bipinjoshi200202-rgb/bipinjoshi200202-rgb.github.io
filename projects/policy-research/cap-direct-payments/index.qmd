@@ -4,7 +4,7 @@ description: "Group research on the EU's largest farm-support instrument: how di
 question: "If direct payments are an inefficient way to support farm incomes, why does every CAP reform keep them?"
 categories: ["Presentation Projects in Economics & Policy"]
 tools: ["Literature review", "Political economy", "EU CAP", "Policy analysis"]
-order: 1
+order: 2
 image: figures/thumbnail.png
 ---
 

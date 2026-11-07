@@ -1,0 +1,73 @@
+---
+title: "CBAM and the CAP: Towards a Coherent Climate Framework for Agriculture"
+description: "Group research on how the EU's carbon-pricing tools (ETS and CBAM) relate to agriculture and the CAP, and whether EU agri-climate policy is becoming one coherent system. My part covered why the EU created the ETS and CBAM."
+question: "Do the CAP, EUDR, CRCF and CBAM add up to one coherent agri-climate framework, and should border carbon pricing extend to agriculture?"
+categories: ["Presentation Projects in Economics & Policy"]
+tools: ["Literature review", "EU climate policy", "Carbon pricing", "Trade policy"]
+order: 1
+image: figures/thumbnail.png
+---
+
+::: {.project-meta}
+::: {}
+[Course]{.k}
+
+[Topics of Agricultural and Food Policy, HU Berlin]{.v}
+:::
+::: {}
+[Type]{.k}
+
+[Group project]{.v}
+:::
+::: {}
+[Method]{.k}
+
+[Literature review · policy analysis]{.v}
+:::
+::: {}
+[Grade]{.k}
+
+[**1.3** (German scale, 1.0 = best)]{.v}
+:::
+:::
+
+## Introduction
+
+The EU prices carbon in industry through the Emissions Trading System (ETS), and since January 2026 it also prices carbon at its border through the Carbon Border Adjustment Mechanism (CBAM). Agriculture remains largely outside both. It is instead steered by CAP payments and conditionality, by the Deforestation Regulation (EUDR) and by the new carbon-farming certification framework (CRCF). The project asked:
+
+- How does CBAM affect farmers, fertiliser markets and international trade?
+- Do these separate instruments add up to one coherent climate framework for agriculture?
+
+This was a group project, and each member researched and presented one part. **My individual contribution** was Section 1, *"Why did the EU create the ETS and CBAM?"* (slides 3–6). It covers:
+
+- the EU's climate targets and the carbon-leakage problem;
+- how the ETS cap-and-trade system works;
+- the shift from free allowances to border pricing;
+- the sectors CBAM covers, with a focus on fertilisers, the one CBAM sector that is a direct farm input.
+
+## Key findings
+
+- **CBAM exists to stop carbon leakage.** EU producers pay for their emissions while many foreign competitors do not. Without a border adjustment, production and emissions risk moving abroad instead of falling globally.
+- **CBAM replaces free allowances.** About 54% of free ETS allowances (2021–25) went to sectors now covered by CBAM. Free allocation is being phased down as CBAM is phased in, and CBAM's definitive regime started in January 2026.
+- **Agriculture is affected through fertilisers.** Fertiliser is the only CBAM sector that is a direct farm input. Higher import costs for fertiliser feed through to farm costs, food prices and trade flows.
+- **There is no "Ag-CBAM" yet.** CBAM can only adjust a carbon price that exists domestically. Agricultural emissions are not priced in the EU; they are regulated through CAP payments and conditionality.
+- **The framework is becoming more integrated, but is not yet complete.** The CAP supports the transition inside the farm gate, CBAM protects climate ambition at the border, and EUDR and CRCF reach into supply chains and carbon markets. Agriculture is still not fully connected to the carbon-pricing system.
+
+## Presentation
+
+[Download the full presentation (PDF, 21 slides)](files/cbam-and-cap-presentation.pdf){.btn-solid}
+
+## Key literature
+
+The ten main sources from our reference list:
+
+1. Pieralli, S., Pérez-Domínguez, I., Elleby, C., & Cluff, M. (2025). Implications of the EU's carbon border adjustment mechanism for fertilizer and food markets. *EuroChoices*, 24, 23–30. <https://doi.org/10.1111/1746-692X.12469>
+2. Stepanyan, D., Zamani, O., Heidecke, C., Pelikan, J., Rieger, J., Osterburg, B., & Gocht, A. (2026). Fertilising climate policy: The dual impact of CBAM on EU agricultural emissions and regional disparities. *Journal of Agricultural Economics*.
+3. Lin, B., & Zhao, H. (2024). Threatening the poor? The economic impacts of carbon border adjustment mechanism on developing countries. *Structural Change and Economic Dynamics*, 71, 582–593. <https://doi.org/10.1016/j.strueco.2024.09.005>
+4. Li, M., Sun, Y., Xia, Y., Yang, Z., Chen, C., Yuan, Y., & Wang, P. (2026). The impacts of Carbon Border Adjustment Mechanism (CBAM) on international trade and policy responses: From an economic and environmental equity perspective. *Energy Policy*, 210.
+5. Dy, K. B., & Yang, H. (2025). Global emissions and international trade: Quantifying the impact of carbon border adjustments. *Energy Economics*, 145, 108373. <https://doi.org/10.1016/j.eneco.2025.108373>
+6. Fournier Gabela et al. (2024). *Climate Policy*.
+7. Petsakos et al. (2023). *Applied Economic Perspectives and Policy*.
+8. Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism. *Official Journal of the European Union*.
+9. European Parliament. (2026). *Carbon Border Adjustment Mechanism: Implementation and latest developments* (EPRS Briefing No. 789314).
+10. European Securities and Markets Authority. (2024). *EU carbon markets 2024* (ESMA50-43599798-10379).
