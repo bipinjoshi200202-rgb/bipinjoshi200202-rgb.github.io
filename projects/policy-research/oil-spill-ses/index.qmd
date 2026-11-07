@@ -1,0 +1,72 @@
+---
+title: "Oil Spills and Shipping Safety: An Institutional Analysis of the Prestige Disaster"
+description: "Uses Ostrom's Social-Ecological Systems (SES) framework to explain why tanker operators underinvest in safety. Compares two institutional arrangements for closing the gap between oil-spill damage and liability. My part was the SES framework analysis."
+question: "Why do tanker operators underinvest in safety, and which institutional arrangements can correct the incentive failure?"
+categories: ["Presentation Projects in Economics & Policy"]
+tools: ["Literature review", "SES framework", "Institutional analysis", "Externalities"]
+order: 4
+image: figures/thumbnail.png
+---
+
+::: {.project-meta}
+::: {}
+[Course]{.k}
+
+[Environmental and Resource Economics, HU Berlin]{.v}
+:::
+::: {}
+[Type]{.k}
+
+[Group project (5 students)]{.v}
+:::
+::: {}
+[Method]{.k}
+
+[SES framework · institutional analysis]{.v}
+:::
+::: {}
+[Case]{.k}
+
+[Prestige oil spill, Spain (2002)]{.v}
+:::
+:::
+
+## Introduction
+
+In 2002 the tanker *Prestige* sank off the coast of Galicia. It spilled 77,000 tonnes of heavy fuel oil and contaminated about 2,900 km of coastline, causing an estimated €4 billion in damage. Only €171.5 million in compensation was available. The project treats the spill as a **social dilemma** among tanker operators and asks two questions:
+
+- Why does the institutional setting lead operators to underinvest in safety?
+- How well do two arrangements address the problem: the 2003 IOPC Supplementary Fund, and market consolidation through charterer vetting?
+
+This was a group project of five students. **My individual contribution** was the **SES framework analysis**. I used Ostrom's Social-Ecological Systems framework to identify the two core variables that create and lock in the dilemma:
+
+- **resource dependence (A8):** whether resource users depend on the resource over the long term;
+- **operational-choice rules (GS5):** the liability rules that govern operators' decisions.
+
+## Key findings
+
+- **The liability gap is structural.** Compensation covered only about 4% of the estimated damage (€171.5 M of about €4 B). The liability rules did not fail; they worked as designed and shifted the costs to third parties.
+- **Operators face a prisoner's dilemma.** A firm that invests in safety loses contracts on price, so underinvesting is the dominant strategy. The result is collectively harmful but individually rational.
+- **Two SES variables close the loop of failure.**
+  - Operators have no long-term dependence on the ocean they may pollute (A8). This removes any intrinsic motivation to conserve it.
+  - Liability caps and flags of convenience (GS5) remove the financial deterrent.
+  - Self-governance cannot solve the problem, because these two conditions are the opposite of Ostrom's successful commons cases.
+- **The IOPC Supplementary Fund (2003) improves compensation, not prevention.** It raised the compensation ceiling about fivefold, to roughly €871 M. But it is financed by oil importers, so operators' safety incentives are unchanged.
+- **The two arrangements are complements.** Market consolidation and charterer vetting (SIRE) create reputational stakes that partly restore prevention incentives. The fund covers the aftermath; consolidation changes the incentive to cause harm in the first place. Neither is sufficient on its own.
+
+## Presentation
+
+[Download the full presentation (PDF, 10 slides)](files/oil-spill-ses-presentation.pdf){.btn-solid}
+
+## Key literature
+
+The sources from our reference list:
+
+1. Ostrom, E. (1990). *Governing the commons: The evolution of institutions for collective action*. Cambridge University Press.
+2. McGinnis, M. D., & Ostrom, E. (2014). Social-ecological system framework: Initial changes and continuing challenges. *Ecology and Society*, 19(2), 30.
+3. Caballero, G., & Fernández-González, R. (2015). Institutional analysis, allocation of liabilities and third-party enforcement via courts: The case of the Prestige oil spill. *Marine Policy*, 54, 195–203.
+4. Surís-Regueiro, J. C., Garza-Gil, M. D., & Varela-Lafuente, M. M. (2007). The Prestige oil spill and its economic impact on the Galician fishing sector. *Ecological Economics*, 61(1), 131–140.
+5. Caesar, L., et al. (2024). Flag of convenience and the tragedy of the commons in maritime transportation. *Marine Pollution Bulletin*, 207.
+6. Alderton, T., & Winchester, N. (2002). Globalisation and de-regulation in the maritime industry. *Marine Policy*, 26(1), 35–43.
+7. IOPC Funds. (2005). *Supplementary Fund Protocol: Official text*. International Oil Pollution Compensation Funds.
+8. Pigou, A. C. (1920). *The economics of welfare*. Macmillan.
