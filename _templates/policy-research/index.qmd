@@ -3,7 +3,7 @@
 title: "CASE STUDY TITLE"
 description: "One-sentence summary of the policy question and what the group found."
 question: "Main research question."
-categories: ["Economics & Policy Research"]
+categories: ["Presentation Projects in Economics & Policy"]
 tools: ["Literature review", "Policy analysis"]
 order: 99                         # position on the Projects page (1 = first)
 image: figures/thumbnail.png      # e.g. a key slide exported as PNG; delete line if none
